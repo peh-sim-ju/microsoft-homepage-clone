@@ -1,5 +1,5 @@
 # microsoft-homepage-clone
-微軟官網首頁仿切
+這是一個微軟官網首頁仿切的練習。
 
 ## 主要目標
 
