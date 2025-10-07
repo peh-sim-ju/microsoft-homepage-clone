@@ -2,7 +2,7 @@
 這是一個微軟官網首頁仿切的練習。
 
 ## 線上預覽
-**[點擊這裡進行線上預覽]((https://peh-sim-ju.github.io/microsoft-homepage-clone/)**
+**[點擊這裡進行線上預覽](https://peh-sim-ju.github.io/microsoft-homepage-clone/)**
 
 ## 主要目標
 
